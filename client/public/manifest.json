@@ -1,0 +1,14 @@
+{
+  "short_name": "Stonks",
+  "name": "Stonks App - Get Stock Data Fast",
+  "icons": [{
+      "src": "stonks.png",
+      "type": "image/png",
+      "sizes": "195x141"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
